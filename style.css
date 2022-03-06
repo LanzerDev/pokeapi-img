@@ -1,0 +1,17 @@
+h1, p{
+    font-family: sans-serif;
+    width: 100%;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+}
+img {
+    width: 200px;
+}
+
+.hide {
+    visibility: hidden;
+}
